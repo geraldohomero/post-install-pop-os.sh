@@ -12,6 +12,8 @@ Post-installation script for the `Pop!_OS` distribution, based on Ubuntu. The sc
 
 >**Important**: While the script aims to automate setup tasks, it's essential to review the code and understand what it does before running it on your machine. **Ensure that you back up critical data before proceeding**. The script provided is for **educational purposes** and comes with **no warranty or support**.
 
+[Fedora Post Install](https://github.com/geraldohomero/post-install-fedora)
+
 1. Download
 
 Download the entire "post-install-pop-os" folder containing the script files to your preferred location. You can clone (to the **Downloads** folder) the repository using Git or download it as a ZIP file from the repository's webpage.
